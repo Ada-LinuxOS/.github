@@ -19,6 +19,9 @@
 ## Bem-vindo a organização oficial da Ada Linux
 Uma distribuição Linux baseada em Debian, projetada para integrar inteligência artificial local, automação inteligente, assistentes contextuais, aprendizado adaptativo de comportamento e soluções baseadas em blockchain, com o objetivo de proporcionar uma experiência de uso otimizada, segura e alinhada com as demandas da computação moderna.
 
+![Status: Experimental](https://img.shields.io/badge/status-experimental-orange)
+
+
 ## 🚀 Sobre o Projeto
 A Ada Linux é uma distribuição Linux customizada e modular, ideal para entusiastas, pesquisadores e desenvolvedores que buscam uma plataforma otimizada para:
 - ✅ Execução de modelos de **IA locais**
