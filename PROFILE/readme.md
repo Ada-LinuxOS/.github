@@ -4,6 +4,21 @@
     <img align="center" style="width: 120%; heigth: 120%;" src="/PROFILE/AdaLinux_Logo.png">
 </div>
 
+> _Privacidade por padrão. Inteligência por escolha._
+
+<div style="display: inline-block" align="center">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg">
+    <img src="https://img.shields.io/badge/Based_on-Debian-red">
+    <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen">
+    <img src="https://img.shields.io/badge/status-alpha-yellow">
+    <img src="https://img.shields.io/badge/blockchain-integrated-yellowgreen">
+    <img src="https://img.shields.io/badge/AI-ready-purple">
+    <img src="https://img.shields.io/badge/lang-pt--br-blue">
+    <img src="https://img.shields.io/badge/lang-en-lightgrey">
+    <img src="https://img.shields.io/badge/privacy-first-important">
+    <img src="https://img.shields.io/badge/offline-capable-green">
+</div>
+
 ## Bem-vindo a organização oficial da Ada Linux
 Uma distribuição Linux baseada em Debian desenvolvida com foco em inteligência artificial, automação, assistentes inteligentes e aprendizado de comportamento, pensada para otimizar a experiência do usuário com tecnologia de ponta.
 
@@ -47,3 +62,4 @@ Estamos abertos a colaborações! Se você deseja contribuir com código, ideias
 2. Veja as issues ou abra uma nova
 3. Faça um fork, implemente e envie um Pull Request
 4. Participe das discussões na aba **Discussions**
+
