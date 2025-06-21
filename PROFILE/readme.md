@@ -1,10 +1,9 @@
 # Ada Linux
+> _Privacidade por padrão. Inteligência por escolha._
 
 <div style="display: inline-block" align="center">
     <img align="center" style="width: 120%; heigth: 120%;" src="/PROFILE/AdaLinux_Logo.png">
 </div>
-
-> _Privacidade por padrão. Inteligência por escolha._
 
 <div style="display: inline-block" align="center">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg">
@@ -15,8 +14,6 @@
     <img src="https://img.shields.io/badge/AI-ready-purple">
     <img src="https://img.shields.io/badge/lang-pt--br-blue">
     <img src="https://img.shields.io/badge/lang-en-lightgrey">
-    <img src="https://img.shields.io/badge/privacy-first-important">
-    <img src="https://img.shields.io/badge/offline-capable-green">
 </div>
 
 ## Bem-vindo a organização oficial da Ada Linux
