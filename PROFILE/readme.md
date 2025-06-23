@@ -44,16 +44,16 @@ A Ada Linux é uma distribuição Linux customizada e modular, ideal para entusi
 - Prover uma base sólida para estudos, desenvolvimento e inovação
 
 ## 👨‍💻 Equipe
-| Nome              | Função                             |
-| ----------------- | ---------------------------------- |
-| Breno Amaral      | Coordenador Geral, IA & Blockchain |
-| Carlos Henrique   | Dev Fullstack & Blockchain         |
-| Carlos Caetano    | Infraestrutura, Segurança & Kernel |
-| Guilherme Dannilo | Infraestrutura & Kernel            |
-| Arthur Carlos     | Infraestrutura & Kernel            |
-| Ellen Nobre       | Marketing & comunicação            |
-| Isadora Ferreira  | Dev Fullstack                      |
-| Moreno Jones      | IA & Modelagem                     |
+| Nome                  | Função                             |
+| --------------------- | ---------------------------------- |
+| [Breno Amaral](https://github.com/DevBrenoSantos)      | Coordenador Geral, IA & Blockchain |
+| [Carlos Henrique](https://github.com/tosuki)   | Dev Fullstack & Blockchain         |
+| [Carlos Caetano](https://github.com/Carlos-ccaetano)    | Infraestrutura, Segurança & Kernel |
+| [Guilherme Dannilo](https://github.com/Gui-Danni-Cmd) | Infraestrutura & Kernel            |
+| [Arthur Carlos](https://github.com/crzinn)     | Infraestrutura & Kernel            |
+| [Ellen Nobre]()       | Marketing & comunicação            |
+| [Isadora Ferreira](https://github.com/isfl1)  | Dev Fullstack                      |
+| [Moreno Jones](https://github.com/Jones-Engineer)      | IA & Modelagem                     |
 
 ## 💡 Contribuições
 Estamos abertos a colaborações! Se você deseja contribuir com código, ideias ou testes, confira os repositórios específicos e abra uma issue ou pull request.
